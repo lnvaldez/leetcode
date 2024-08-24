@@ -11,7 +11,3 @@ class Solution:
         comp = ''.join(b_num)
         return int(comp, 2)
 
-
-
-s = Solution()
-print(s.findComplement(num = 5))
